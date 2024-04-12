@@ -1,0 +1,29 @@
+.elementor-59 .elementor-element.elementor-element-2bbd74a9{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--overlay-opacity:0.2;--padding-block-start:150px;--padding-block-end:250px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-59 .elementor-element.elementor-element-2bbd74a9:not(.elementor-motion-effects-element-type-background), .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3e20413 );background-image:url("https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/background-3-scaled.webp");background-size:contain;}.elementor-59 .elementor-element.elementor-element-2bbd74a9::before, .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .elementor-background-video-container::before, .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .e-con-inner > .elementor-background-video-container::before, .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .elementor-background-slideshow::before, .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .e-con-inner > .elementor-background-slideshow::before, .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-59 .elementor-element.elementor-element-2bbd74a9, .elementor-59 .elementor-element.elementor-element-2bbd74a9::before{--border-transition:0.3s;}.elementor-59 .elementor-element.elementor-element-16fc9cc6{text-align:center;}.elementor-59 .elementor-element.elementor-element-16fc9cc6 .elementor-heading-title{color:#000000;font-family:"Unity", Sans-serif;font-size:50px;font-weight:700;text-transform:uppercase;}.elementor-59 .elementor-element.elementor-element-16fc9cc6 > .elementor-widget-container{margin:50px 0px 50px 0px;padding:0px 0px 0px 0px;}.elementor-59 .elementor-element.elementor-element-5c1cbfed{color:#000000;font-family:"Unity", Sans-serif;font-weight:400;}.elementor-59 .elementor-element.elementor-element-5c1cbfed > .elementor-widget-container{padding:50px 50px 50px 50px;background-color:var( --e-global-color-secondary );border-radius:20px 20px 20px 20px;}.elementor-59 .elementor-element.elementor-element-5c1cbfed.ha-has-bg-overlay > .elementor-widget-container:before{transition:background 0.3s;}@media(min-width:768px){.elementor-59 .elementor-element.elementor-element-2bbd74a9{--content-width:1400px;}}@media(min-width:1025px){.elementor-59 .elementor-element.elementor-element-2bbd74a9:not(.elementor-motion-effects-element-type-background), .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}@media(max-width:767px){.elementor-59 .elementor-element.elementor-element-2bbd74a9:not(.elementor-motion-effects-element-type-background), .elementor-59 .elementor-element.elementor-element-2bbd74a9 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/mobile-2.webp");background-position:top center;background-repeat:no-repeat;background-size:contain;}.elementor-59 .elementor-element.elementor-element-2bbd74a9{--padding-block-start:175px;--padding-block-end:200px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-59 .elementor-element.elementor-element-16fc9cc6 .elementor-heading-title{font-size:26px;}.elementor-59 .elementor-element.elementor-element-16fc9cc6 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-59 .elementor-element.elementor-element-5c1cbfed{font-size:12px;}.elementor-59 .elementor-element.elementor-element-5c1cbfed > .elementor-widget-container{margin:10px 10px 10px 10px;padding:20px 20px 20px 20px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/TCCC-UnityText-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/TCCC-UnityHeadline-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/TCCC-UnityHeadline-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/TCCC-UnityCondensed-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

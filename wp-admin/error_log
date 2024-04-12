@@ -1,0 +1,12 @@
+[11-Apr-2024 10:16:19 UTC] PHP Fatal error:  Uncaught TypeError: method_exists(): Argument #1 ($object_or_class) must be of type object|string, null given in /home3/lavishsi/kwavemy.lavish-site.com/wp-content/plugins/really-simple-ssl/class-admin.php:2602
+Stack trace:
+#0 /home3/lavishsi/kwavemy.lavish-site.com/wp-content/plugins/really-simple-ssl/class-admin.php(2602): method_exists(NULL, 'alias_domain_av...')
+#1 /home3/lavishsi/kwavemy.lavish-site.com/wp-content/plugins/really-simple-ssl/class-admin.php(2457): rsssl_admin->validate_function('RSSSL_LE()->let...')
+#2 /home3/lavishsi/kwavemy.lavish-site.com/wp-content/plugins/really-simple-ssl/class-admin.php(1792): rsssl_admin->get_notices_list(Array)
+#3 /home3/lavishsi/kwavemy.lavish-site.com/wp-includes/class-wp-hook.php(324): rsssl_admin->show_notices('')
+#4 /home3/lavishsi/kwavemy.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 /home3/lavishsi/kwavemy.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home3/lavishsi/kwavemy.lavish-site.com/wp-admin/admin-header.php(303): do_action('admin_notices')
+#7 /home3/lavishsi/kwavemy.lavish-site.com/wp-admin/index.php(137): require_once('/home3/lavishsi...')
+#8 {main}
+  thrown in /home3/lavishsi/kwavemy.lavish-site.com/wp-content/plugins/really-simple-ssl/class-admin.php on line 2602

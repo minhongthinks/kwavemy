@@ -1,0 +1,62 @@
+.elementor-199 .elementor-element.elementor-element-143313d0{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--overlay-opacity:0.2;--padding-block-start:100px;--padding-block-end:250px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-199 .elementor-element.elementor-element-143313d0:not(.elementor-motion-effects-element-type-background), .elementor-199 .elementor-element.elementor-element-143313d0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3e20413 );background-image:url("https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/background-3-scaled.webp");background-size:contain;}.elementor-199 .elementor-element.elementor-element-143313d0::before, .elementor-199 .elementor-element.elementor-element-143313d0 > .elementor-background-video-container::before, .elementor-199 .elementor-element.elementor-element-143313d0 > .e-con-inner > .elementor-background-video-container::before, .elementor-199 .elementor-element.elementor-element-143313d0 > .elementor-background-slideshow::before, .elementor-199 .elementor-element.elementor-element-143313d0 > .e-con-inner > .elementor-background-slideshow::before, .elementor-199 .elementor-element.elementor-element-143313d0 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-199 .elementor-element.elementor-element-143313d0, .elementor-199 .elementor-element.elementor-element-143313d0::before{--border-transition:0.3s;}.elementor-199 .elementor-element.elementor-element-4538d5ff{text-align:center;}.elementor-199 .elementor-element.elementor-element-4538d5ff .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-size:50px;font-weight:700;text-transform:uppercase;}.elementor-199 .elementor-element.elementor-element-4538d5ff > .elementor-widget-container{margin:50px 0px 50px 0px;padding:0px 0px 0px 0px;}.elementor-199 .elementor-element.elementor-element-73d184cb > .elementor-widget-container{padding:30px 30px 30px 30px;background-color:var( --e-global-color-secondary );border-radius:20px 20px 20px 20px;}.elementor-199 .elementor-element.elementor-element-73d184cb{z-index:2;}.elementor-199 .elementor-element.elementor-element-73d184cb.ha-has-bg-overlay > .elementor-widget-container:before{transition:background 0.3s;}@media(min-width:768px){.elementor-199 .elementor-element.elementor-element-143313d0{--content-width:1400px;}}@media(min-width:1025px){.elementor-199 .elementor-element.elementor-element-143313d0:not(.elementor-motion-effects-element-type-background), .elementor-199 .elementor-element.elementor-element-143313d0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}@media(max-width:767px){.elementor-199 .elementor-element.elementor-element-143313d0:not(.elementor-motion-effects-element-type-background), .elementor-199 .elementor-element.elementor-element-143313d0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://kwavemy.lavish-site.com/wp-content/uploads/2024/03/mobile-2.webp");background-position:top center;background-repeat:no-repeat;background-size:contain;}.elementor-199 .elementor-element.elementor-element-143313d0{--padding-block-start:150px;--padding-block-end:200px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-199 .elementor-element.elementor-element-4538d5ff .elementor-heading-title{font-size:25px;}.elementor-199 .elementor-element.elementor-element-4538d5ff > .elementor-widget-container{margin:20px 20px 20px 20px;}.elementor-199 .elementor-element.elementor-element-73d184cb > .elementor-widget-container{margin:15px 15px 15px 15px;padding:30px 30px 30px 30px;}}/* Start custom CSS for heading, class: .elementor-element-4538d5ff */input#gform_next_button_1_17,  input#gform_next_button_1_16, input#gform_submit_button_1  {
+    border-style: none; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right:30px;
+    background-color: #BD2026;
+    color: white;
+    outline: none;
+    
+}
+
+  
+input#gform_next_button_1_17:hover, input#gform_previous_button_1_16:hover, input#gform_next_button_1_16:hover, input#gform_previous_button_1:hover,input#gform_submit_button_1:hover {
+    border-style: none; 
+    background-color: black;
+    color: white;
+    outline: none;
+}
+
+.ginput_container_consent label {
+  display: inline;
+  margin-right: 10px;
+} 
+
+body {
+    font-family: "Unity";
+    font-weight: 600 ;
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-73d184cb */input#gform_next_button_3_17,  input#gform_next_button_3_16, input#gform_submit_button_3 {
+    border-style: none; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right:30px;
+    background-color: #E41E2B;
+    color: white;
+    outline: none;
+    
+}
+
+  
+input#gform_next_button_3_17:hover, input#gform_previous_button_3_16:hover, input#gform_next_button_3_16:hover, input#gform_previous_button_3:hover,input#gform_submit_button_3:hover {
+    border-style: none; 
+    background-color: black;
+    color: white;
+    outline: none;
+}
+
+.ginput_container_consent label {
+  display: inline;
+  margin-right: 10px;
+} 
+
+body {
+    font-family: "Unity";
+    font-weight: 700 ;
+}
+
+a:link {
+  color: #E41E2B;
+}/* End custom CSS */
